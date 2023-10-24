@@ -16,3 +16,6 @@ Eager to embark on a journey in the world of software engineering, I'm driven by
 I'm eager to connect with mentors, peers, and fellow tech enthusiasts to expand my knowledge and contribute to innovative projects. Let's connect and learn from each other! 🤝
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-b-a-s&hide=java,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-b-a-s&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
