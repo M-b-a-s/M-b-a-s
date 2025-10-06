@@ -1,7 +1,7 @@
 ### Hello there, I'm Mbas 👋
-I'm a software developer passionate about building clean, responsive, and user-friendly web applications. I work primarily with React (Vite), Next.js, Tailwind CSS, Chakra UI, radix UI, and shadcn/ui for frontends, and Node.js, Express, and PostgreSQL for backends.
+I craft reliable, high-performing software and ensure every product meets the highest standards of quality. From building modern web apps to designing effective testing strategies, I bridge the gap between development and QA to deliver excellence.
 
-I enjoy creating seamless user experiences, structuring efficient APIs, and delivering high-impact solutions fast. I'm always learning, iterating, and exploring better ways to solve real-world problems with code.
+_"It's easy to move quickly when you don't care about quality"_
 
 Let’s build something great.
 
